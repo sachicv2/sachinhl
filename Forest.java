@@ -6,7 +6,7 @@ static String typeofforest="green";
 
 static String region="india";
 
-static int totalarea=51249;
+static double totalarea=51299099d;
 
 static String [] primaryanimals={"dog", "fox", "deer","cobras", "snake","cheeta"};
 
